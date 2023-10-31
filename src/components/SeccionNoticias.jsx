@@ -19,6 +19,13 @@ const SeccionNoticias = props => {
           alt="Primera noticia"
         />
       </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="/img/img3.jpg"
+          alt="Primera noticia"
+        />
+      </Carousel.Item>
     </Carousel>
   )
 }
